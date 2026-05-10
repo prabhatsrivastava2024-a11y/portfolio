@@ -1,0 +1,27 @@
+{
+  "profile": {
+    "name": "SRIVASTAVA Prabhat",
+    "headline": "General Manager Operations — Integrated Facilities & Healthcare",
+    "location": "Delhi NCR, India",
+    "summary": "Operations leader with 25+ years of experience across healthcare, IFM, retail operations, business growth, and compliance-led delivery."
+  },
+  "experience": [
+    {
+      "company": "Sodexo India",
+      "period": "2013-2025",
+      "title": "General Manager Operations",
+      "highlights": ["Led North India healthcare portfolio", "Drove profitability and compliance", "Managed large-scale multi-site operations"],
+      "kpis": ["₹4 Cr portfolio revenue", "99% client retention", "1,500+ workforce", "10 sites", "+18% EBITDA"]
+    },
+    {
+      "company": "Reliance Retail",
+      "period": "2006-2012",
+      "title": "Store Manager & Business Analyst",
+      "highlights": ["Managed hypermarket operations and P&L", "Led inventory and analytics initiatives"],
+      "kpis": ["100+ stores analysed", "-22% shrinkage", "+15% same-store growth"]
+    }
+  ],
+  "skills": ["IFM", "Healthcare Operations", "P&L Management", "QHSE", "HACCP", "Vendor Management", "Business Development", "Team Leadership"],
+  "education_certifications": ["Operations Leadership", "Compliance & Governance Expertise"],
+  "assistantTone": "Professional recruiter assistant"
+}
